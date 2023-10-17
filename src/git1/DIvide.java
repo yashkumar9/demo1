@@ -1,6 +1,9 @@
 package git1;
 
 public class DIvide {
+	public void test1() {
+		System.out.println("changed");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
